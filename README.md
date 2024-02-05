@@ -3,6 +3,7 @@ toots
 
 
 <html>
+<link src="WAPI.css" rel="stylesheet"/>
   <body>
     <button id="start-button">Start Loop</button>
     <button id="stop-button">Stop Loop</button><br>
@@ -50,5 +51,6 @@ toots
       <label for="delay-amount-control">Delay Amount</label><br>
       <input id='delay-amount-control' type="range" min = "0" max = ".9" step='0.05' value='0'>
     </div>
+<script src="WAPI.js"></script>
   </body>
 </html>
