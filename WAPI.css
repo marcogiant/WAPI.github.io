@@ -5,14 +5,14 @@ div {
 }
   
 #start-button {
-  background-color: green;
+  background-color;
 }
   
 #stop-button {
-  background-color: red;
+  background-color;
 }
 
 .container{ 
-    display:grid;
+    display: grid;
     grid-template-columns: auto auto auto;
-    row-gap: 1rem;
+    row-gap: 10rem;
