@@ -15,4 +15,5 @@ div {
 .container{ 
     display: grid;
     grid-template-columns: auto auto auto;
-    row-gap: 10rem;
+    row-gap: 1rem;
+}
