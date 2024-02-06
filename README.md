@@ -3,7 +3,7 @@ toots
 
 
 <html>
-<link src="WAPI.css" rel="stylesheet"/>
+<link src="WAPI.css" rel="stylesheet" type="text"/>
 
   <body class="container">
 <div class="item1">
