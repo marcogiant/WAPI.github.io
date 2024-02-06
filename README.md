@@ -12,7 +12,7 @@ toots
   <label for="volume-control">Master Volume</label><br>
   <input type="range" id="volume-control" min="0" max="1" step="0.05" value=".2"><br>
   <label for="tempo-control">Tempo</label><br>
-  <input type="range" id="tempo-control" min="-10000" max="1000" step="5" value="120"><br>
+  <input type="range" id="tempo-control" min="-100" max="1000" step="5" value="120"><br>
   </div>
   
   <div id="note-selects-div" class="item2">
