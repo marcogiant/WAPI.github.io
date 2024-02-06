@@ -4,15 +4,8 @@ div {
     margin: 10px;
 }
 
-*{ background-color: #5864bc;
-  
-#start-button {
-  background-color;
-}
-  
-#stop-button {
-  background-color;
-}
+*{ background-color: #5864bc; }
+
 
 .container{ 
     display: grid;
