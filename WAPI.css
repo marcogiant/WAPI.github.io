@@ -1,14 +1,14 @@
-div {
-    border: 3px solid black;
-    padding: 5px;
-    margin: 10px;
-}
 
-*{ background-color: #5864bc; }
+*{ background-color: #8293e9; }
 
 
 .container{ 
     display: grid;
     grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
     row-gap: 1rem;
+}
+
+div {
+    border: 3px solid black;
+   
 }
